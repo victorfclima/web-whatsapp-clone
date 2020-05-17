@@ -23,5 +23,5 @@ The purpose of this project was to train HTML 5, CSS 3 and Bootstrap 4 skills!
 </ul>
 
 <h2>:heavy_check_mark: Check the solution</h2>
-$ git clone https://github.com/victorfclima/web-whatsapp-clonegit
+$ git clone https://github.com/victorfclima/web-whatsapp-clone.git
 <br>
